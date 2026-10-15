@@ -1,4 +1,4 @@
-
+```python
 import time
 import ctypes
 from ctypes import wintypes
@@ -118,3 +118,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+```
